@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A general-epistle to the Christian churches. To be spread abroad amongst all professing Christianity; for a vvarning to same, and an incouragement to others.</title>
+            <author>Cox, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80724</idno>
+            <idno type="STC">Wing C6701C</idno>
+            <idno type="STC">ESTC R171576</idno>
+            <idno type="EEBO-CITATION">45578283</idno>
+            <idno type="OCLC">ocm 45578283</idno>
+            <idno type="VID">172223</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80724)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172223)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2619:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A general-epistle to the Christian churches. To be spread abroad amongst all professing Christianity; for a vvarning to same, and an incouragement to others.</title>
+                  <author>Cox, John.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Author from first line of text.</note>
+                  <note>"Written the 6th. of the 7th. month, 1683"--P. 7.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+               <term>Salvation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:172223:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 91 -->
+            <head>
+               <hi>A General-Epiſtle TO THE <hi>Chriſtian Churches,</hi>
+               </hi> To be ſpread abroad amongſt all profeſſing Chriſtianity; for a VVarning to ſome, and an Incouragement to others.</head>
+            <p>
+               <hi>IOHN COX</hi> your fellow Servant, and a Meſſenger of Chriſt Jeſus, in whom is our Life and eternal hope of Salva<g ref="char:EOLhyphen"/>tion, purchaſed for all that ſhall believe in his Name, when he gave himſelf a <hi>Sacrifice</hi> once for all; for the expiation of the Sins of the whole World, bearing them in his holy Body upon the <hi>Croſs.</hi> Thus in his Perſon, he became Sin for us, that had no Sin; Reconciling us to the Father in his moſt precious blood, whil'ſt as yet we were <hi>Aliens,</hi> nay, <hi>Enemies</hi> unto him: So that we may cry out, and ſay, Ah! the <hi>height</hi> and <hi>depth</hi> of the unſearcha<g ref="char:EOLhyphen"/>ble Wiſdom and Love of God in Chriſt Jeſus; in whoſe ſaving Name, Light, Life, Spirit, and Power, I ſalute you every where, that call upon him, and approach near unto God the Father, by his <hi>Mediatorſhip,</hi> who ſits at the <hi>Right Hand</hi> of his Father, continually making <hi>Interceſſion,</hi> as our heavenly <hi>High Prieſt,</hi> for us; teaching us by his <hi>Spirit,</hi> how to pray; and then offering up the <hi>Incenſe</hi> of our Prayers unto God the Father, and praying for us; always beholding and ſeeing the face of the Incomprehenſible Majeſty of God; to whom no Mortal Eye can approach.</p>
+            <p>This is a Trying Day, that is coming upon all the Earth, and the Inhabitants of the World, and of the Sea, a day of <hi>Anguiſh</hi> and unexpected <hi>Calamity</hi> ſhall overtake them unawares: For the day of <hi>Recompence</hi> is at hand; the Lord is drawing his glittering Sword, and his Arm ſhall devour <hi>Fleſh;</hi> he will avenge him of his Enemies, and recompence it to his Adverſaries; a day of terrour,
+<pb n="2" facs="tcp:172223:2"/>
+               <!-- PDF PAGE 92 -->a day of ſhaking, a day of trembling, of winnowing and ſifting: and a <hi>Couſumption of all Fleſh,</hi> ſuch as never was upon the Earth, every man's hands upon his Loyns, as a Woman in Travel, <hi>becauſe the day ſhall burn as an Oven, and ſhall leave neither Root, nor Branch.</hi> Do they conſult? It ſhall not ſtand. Do they take Counſel? It ſhall come to nought. For the Lord is on his way, as a Gyant refreſht with <hi>Wine;</hi> and as a Mighty Man of War, he ſhall thraſh the Na<g ref="char:EOLhyphen"/>tions.</p>
+            <p>Bleſſed are they that fly unto the Living God for Refuge, and put their truſt in the Arm of his Salvation, that look over all theſe <hi>Commotions</hi> that ſhall come upon the Earth: where <hi>Distreſs, Con<g ref="char:EOLhyphen"/>fuſion, Contradiction, Confuſion of Language and understanding, Jea<g ref="char:EOLhyphen"/>louſies, Miſtrust, Falſeneſs, betraying</hi> and <hi>devouring,</hi> and a <hi>breaking</hi> and <hi>defeating</hi> of the <hi>Wiſe-Societies,</hi> and <hi>Combinations,</hi> ſhall be: all the Wiſdom of the Wiſe is confounded and betrayed, to his own Shame and Deſolation.</p>
+            <p>Therefore look not out, for then <hi>Thoughts, Fears,</hi> and <hi>Doubts</hi> enter, and <hi>Miſtruſts</hi> of God and his Sufficiency are let in, and the great Adverſary of Man's Peace hearkened to, and <hi>Carnal Reaſon,</hi> which will cry, <hi>Master, pitty thy ſelf, ſave thy ſelf,</hi> and yet knows not where to turn for <hi>Safety.</hi> But look unto the Lord, that hath called you forth of Darkneſs, and viſited you and your Fathers, when you ſate in <hi>Darkneſs, and under the Region of the Shadow of Death,</hi> by the meſſage of the Light of his glorious Goſpel; and re<g ref="char:EOLhyphen"/>member how he led you, and covered your heads in the day of ſtorm; how he gave you Srength, a Mouth, and Wiſdom, and Courage in the day of your <hi>Humiliation, Simplicity,</hi> and <hi>Tenderneſs,</hi> when you ſought the Lord in all things, and that he went in and out before you, and you waited for his dayly directions, and coun<g ref="char:EOLhyphen"/>ſelled all thereunto in themſelves, that they all might come to be taught of the Lord, and know the Lord, from the leaſt of the Peo<g ref="char:EOLhyphen"/>ple to the greateſt. Oh! conſider then, and let it rent your hearts, and humble you continually within your ſelves, to follow on ſtill, to know the Lord, and to look unto the Author of our <hi>Salvation</hi> in all things: ſtand ſtill: Who is this that ſaith, <hi>I have done this? This was by my Wiſdom, my Counſel, my Labour, my <g ref="char:V">Ʋ</g>nderstanding, I have brought this to paſs;</hi> This will the Lord overthrow, and all the <hi>Carved Images,</hi> all the pleaſant <hi>Pictures,</hi> all the fair <hi>Buildings,</hi> all the wiſe Platforms of <hi>Structures,</hi> the Lord will overthrow, that none may be exalted, or glory in
+<pb n="3" facs="tcp:172223:2"/>
+               <!-- PDF PAGE 92 -->any thing, but dayly dependency on the Lord, and following on<g ref="char:punc">▪</g> to know more of him; and not glorying, that Spirits are (through his Name) made ſubject (when <hi>Satan</hi> deſcends like Lightning) but rather that your Names are written in Heaven.</p>
+            <p>Dwell in the Faith, for it is written, <hi>The Juſt ſhall live by Faith.</hi> And it is <hi>Faith</hi> in the Son of God <hi>Christ Jeſus,</hi> which hath cauſed his <hi>Light</hi> to ſhine in our hearts, that overcame the World firſt; and all that did, and do overcome the World, and in the end are crown<g ref="char:EOLhyphen"/>ed with Victory, overcome through <hi>Faith</hi> in his Name, that was, is, and is yet to come. Oh! ſtand ſtedfaſt, without wavering, be faithful unto Death, and he will give the Crown of Life; watch againſt that which would lead the Mind from <hi>Stillneſs</hi> and <hi>Quiet<g ref="char:EOLhyphen"/>neſs,</hi> watch againſt Thoughts and Words, and multitudes of Cares, under pretence of <hi>Serving</hi> God and his Truth: for Chriſt ſaith, <hi>Without me ye can do nothing:</hi> and exhorts his Diſciples <hi>not to be Careful,</hi> and reproves <hi>Martha</hi> (a Member of the <hi>True Church</hi>) for her being too much troubled with <hi>Serving,</hi> and complaining of her Siſter to him; and reproved <hi>Peter,</hi> that thought carnally in taking upon him to admoniſh his Lord, though it was his Love to his <hi>Master,</hi> yet it was alſo his Ignorance (of the Purpoſe and Fore determination of God) and his Preſumption that cauſed him to err. Therefore it is in Patient Learning, that every one muſt poſſeſs their own Souls: and having the Loyns of their <hi>Minds</hi> girded, and their <hi>Lamps</hi> trimmed, wait for the coming of their Lord, who will come, and his Reward is with him, to give to every one of his <hi>Servants,</hi> according to the Works he hath commanded from them to be done. Bleſſed are they that are watching and ſo<g ref="char:EOLhyphen"/>ber, that are not drunk with <hi>Pride,</hi> with <hi>Vain-Glory,</hi> with <hi>Prehe<g ref="char:EOLhyphen"/>minence;</hi> nor, are not choaked, nor furfited, nor byaſſed from the known Will and Mind of the Lord, for Honour and Greatneſs-ſake which is an empty Name: <hi>And how can you believe</hi> (ſaith Chriſt) <hi>that receive Honour one from another, and not the Honour that cometh from God only.</hi> And then are found taking their Fel<g ref="char:EOLhyphen"/>low Servant by the Throat, and <hi>beating, reproaching, nick-naming, ſlandering, contemning,</hi> and caſting forth as <hi>Dung</hi> to be trodden upon. Oh! the Lord is coming, that will cut you aſunder, and will give you your Portion with <hi>Hypocrites;</hi> yea, <hi>Abuſers</hi> of his <hi>Trust,</hi> you <hi>Renters</hi> of his <hi>Church,</hi> for which he died, ye <hi>proud Scof<g ref="char:EOLhyphen"/>fers, heady high-minded, Daubers,</hi> and <hi>Flatterers</hi> amongſt all Peo<g ref="char:EOLhyphen"/>ple
+<pb n="4" facs="tcp:172223:3"/>
+               <!-- PDF PAGE 93 -->repent, or the Lord will be dreadful unto you; you have gone in the way of <hi>Cain,</hi> killing the <hi>Juſt,</hi> in the Tyranny of <hi>Nimrod,</hi> hunting before the Lord: ye <hi>Gyants,</hi> and <hi>mighty Men,</hi> the Lord will cut you off, ye are in the way of <hi>Corah, Dathan,</hi> and <hi>Abiram,</hi> that reſiſt the Truth, and lay occaſions of ſtumbling, and Offences before the Weak, cauſing the Offence of the <hi>Croſs</hi> to ceaſe, ye that render <hi>Reviling</hi> for <hi>Reviling;</hi> ye deſpiteful, venemous <hi>Beſpat<g ref="char:EOLhyphen"/>terers</hi> of one another, to the Shame and Scorn of the World. You manifeſt what generation you are of, you <hi>Intruders,</hi> that have not the <hi>Wedding Garment</hi> on, but the Rags of Self-conceitedneſs, and ſwelling Thoughts, and abounding of your own naughty unmorti<g ref="char:EOLhyphen"/>fied <hi>Wiſdom,</hi> carnal, ſenſual, and deviliſh: the Lord is a ſwift Wit<g ref="char:EOLhyphen"/>neſs againſt you all, you <hi>Renters,</hi> and <hi>Sowers</hi> of <hi>Diſcord, Whiſper<g ref="char:EOLhyphen"/>ers, Tale-bearers,</hi> and <hi>Baeckbiters, Diſturbers</hi> of <hi>Societies, Families, Nations, Kingdoms, Princes,</hi> and <hi>People,</hi> the Lord will root you out, and take away your falſe Covering of pretended <hi>Religion,</hi> and you ſhall be a hiſſing to all People.</p>
+            <p>But all that love the Lord, and all that ſeek his Face and love his Appearance, and that nothing, whatever the pretence be, can content, or cauſe you to take up a <hi>Reſt,</hi> ſhort of the Lords comfor<g ref="char:EOLhyphen"/>table, inwardly refreſhing, Soul-ſatisfying Preſence, who only ſpeaks Peace to his People, that they turn not again to Folly. Oh! dear Brethren, thoſe words of the <hi>Meſſiah,</hi> are often as an Alarm ſounded in my Ears, <hi>When the Son of Man comes, ſhall he find Faith upon the Earth?</hi> I tell you, <hi>Nay:</hi> Oh! how much talk to little purpoſe? How much Profeſſion, and how little Faith in the World? Therefore awake to <hi>Righteouſneſs,</hi> all you that ſleep, that Chriſt may give you Life; and be not ſlothful and negligent, ſaying in heart, <hi>The Lord delays his coming;</hi> and a heart of Unbelief enter you, take heed of a Spirit of Sleep and Slumber; or, of eaſineſs to joyn and comply with the Spirit of this World, through Diſcon<g ref="char:EOLhyphen"/>tentedneſs; Oh! whether can you go? Have you not heard him to ſpeak to your Souls? whil'ſt your hearts melted within you, at his Love and Glory, that has the words of Eternal Life; therefore draw near to the Lord, and he will come, that ſhall come and will not tarry: yet a little while, and <hi>Satan</hi> ſhall be trodden under foot.</p>
+            <p>Be not diſmay'd, theſe things happening, are not Temptations, otherwiſe than what in ſome reſpect, have come for a Tryal a<g ref="char:EOLhyphen"/>mongſt all God's People; as ye may read in Chriſt's words,
+<pb n="5" facs="tcp:172223:3"/>
+               <!-- PDF PAGE 93 -->which warned his Diſciples againſt thoſe that cry, <hi>Lo here,</hi> and <hi>Lo there;</hi> bidding his not to go forth: and the <hi>Apoſtles</hi> in their <hi>Epiſtles,</hi> ſpeaking of <hi>Intruders:</hi> and as there were <hi>Falſe Pro<g ref="char:EOLhyphen"/>phets</hi> amongſt the <hi>Jewiſh-Church,</hi> ſo ſhould there be <hi>Falſe Teachers</hi> amongſt them, which unawares, ſhould bring in <hi>damnable Doctrine,</hi> denying the Lord that bought them. Now, this was ſpoken of thoſe, that erring from the <hi>Spirit,</hi> the <hi>Comforter</hi> and <hi>Leader</hi> into all <hi>Truth,</hi> ſhould ſet up the <hi>Form of Godlineſs, denying the Power.</hi> And here hath been the <hi>Apoſtacy</hi> amongſt the <hi>JEWS</hi> and <hi>CHRISTIANS,</hi> the one, and the other falling to <hi>Ido<g ref="char:EOLhyphen"/>latry,</hi> under a Pretence of God's Worſhip, and owning Chriſt, but denying the Sufficiency of his <hi>Spiritual</hi> and <hi>Inward Government,</hi> have ſet up their own Inventions and Commandments, and then have impoſed Conformity and Uniformity thereunto: then there hath been produced amongſt all ſuch People, <hi>Strife, Hatred, Scorn, Wrath, Malice, Revenge, Fury, Diſdain,</hi> &amp;c. and who got the <hi>Carnal Weapon,</hi> Bodily Perſecution over all the reſt. And thus the Myſtery <hi>Babylon,</hi> the Mother of <hi>Harlots,</hi> and abomination of the whole Earth, has wrought, and <hi>High</hi> and <hi>Low, Rich</hi> and <hi>Poor,</hi> have been made drunk and quarrelſome with the Cup of her <hi>Forni<g ref="char:EOLhyphen"/>cations,</hi> as <hi>Satan</hi> transformed, and intruding amongſt the Sons of God, in his transformed, unreforming Miniſters, hath exalted himſelf in the Temple of God, over all that may be called God, pretending to give Rules and Laws to the People in <hi>Spiritual Things,</hi> how to walk; and then his Kingdom in the <hi>Mistery, in Pride, Lordlineſs,</hi> and <hi>Flattery, Preſumptuouſneſs, High-minded<g ref="char:EOLhyphen"/>neſs,</hi> &amp;c. hath again gone forward: therefore, where-ever this ſhall be, it is naught, and the time of its ſtately Reign is draw<g ref="char:EOLhyphen"/>ing near unto an end; for the Lord of the <hi>Vineyard</hi> will come him<g ref="char:EOLhyphen"/>ſelf, and will gather his into the Divine Unity; which all the <hi>Righ<g ref="char:EOLhyphen"/>teous</hi> in all Ages have waited for, and in Faith, ſee it afar off, and reſted in hope together with us, to be made intire, compleat, and perfected in him, who is the Reſurrection and Life Eternal.</p>
+            <p>But Oh! you diſtreſſed, and not forſaken; you afflicted, but never forgotten of the Lord, you Children of <hi>Zion,</hi> for whom the Lord is on his way; you that have no helper in the Earth, but for your Teſtimony-ſake to the Lord, are ſet as <hi>Butts,</hi> to ſhoot at, by the Proud and haughty of the Earth. Ah! the Lord will eſpouſe you in Righteouſneſs, and everlaſting Loving Kindneſs to himſelf. Be not diſmay'd, the day of your Redemption draws
+<pb n="6" facs="tcp:172223:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 94 -->near, lift up your heads and rejoyce, <hi>for all tears ſhall be wiped away from your Eyes.</hi> They that touch you, touch the <hi>Apple</hi> of the Lord's Eye; for which he will rebuke Nations, and diſtreſs many People; keep on your way, in which the Lord hath called, and led you by his <hi>Grace</hi> and <hi>Spirit</hi> to walk in; love the Simplicity of the Goſpel, love one another unfeignedly, bridle the tongue, condiſcend to them of low degree, ſerve one another in love, and without up<g ref="char:EOLhyphen"/>braiding; have <hi>Salt</hi> in your ſelves, to ſavour withal, <hi>for great is the Myſtery of <g ref="char:V">Ʋ</g>ngodlineſs,</hi> but it has been well with the Upright in heart in all Ages and Generations, when the Wiſe and Crafty have been taken in their own Snare. The Wiſdom of Men ſavours not the things of God, and this intruding and getting place, having Men's Perſons in Admiration, have bred diſturbance, and wiſe men (ſo called) have made work, with oppoſition of <hi>Science</hi> (falſly ſo called) one againſt another, troubling the Peace of the Lord's People, and ought to be avoided and ſhun'd, for it hath ſtumbled the weak. Therefore eye the Lord, and hold the Uni<g ref="char:EOLhyphen"/>ty in the Spirit; which <hi>Spirit of Truth</hi> is the bond of Perfection: And all keep out of the ways of the World, the Rock of our Sal<g ref="char:EOLhyphen"/>vation is the ſame, which will not permit any of us to be tryed (if we do abide in his Counſel) further than what we (he aſſiſting) ſhall be able to bear, and all our troubles ſhall turn to our Good: the Lord will turn the Wrath of Man to our Good. Therefore hold faſt what you have received of the Lord, and let a <hi>Spirit</hi> of Mercy and Tenderneſs compaſs you about; and of ſuch as fall, have Compaſſion, making a difference; for ſome are betrayed as a <hi>Bird</hi> in the ſnare of the <hi>Fowler;</hi> unto whom the Lords tender Bowels are open, and he will never forget the Love of their Youth, but will pluck them as brands out of the Fire.</p>
+            <p>But that which is naught, is naught, and Flattery will not cover it, for all it can turn and face about as the <hi>Camellon.</hi> Ah! the Lord will gather the bruiſed, and the <hi>Out: casts</hi> of <hi>Iſrael.</hi> Oh! my heart is glad, I could ſhout for Joy, in a ſenſe of the <hi>Meſſiah</hi> entring (upon his being proclaimed) into <hi>Jeruſalem,</hi> though this was not known to the Wiſe of the <hi>Jewiſh-Church;</hi> their eyes were, for our good, held. Oh! what a day of gladneſs to all that wait for <hi>Salvation,</hi> is a coming, a day without Clouds to them that mourn now, and have been afflicted for Righteouſneſs ſake, with a day of unuttera<g ref="char:EOLhyphen"/>ble and endleſs Rejoycing: but to the World, of <hi>Woe,</hi> that for ly<g ref="char:EOLhyphen"/>ing Vanities, neglect ſo great <hi>Salvation,</hi> &amp;c. <hi>Rejoyce, O Daughter
+<pb n="7" facs="tcp:172223:4" rendition="simple:additions"/>
+                  <!-- PDF PAGE 94 -->of Zion, behold thy King cometh unto thee, meek, and ſitting upon an Aſs, and a Colt, the Foal of Aſs.</hi>
+            </p>
+            <p>So all look to him, of whom the <hi>Brazen Serpent</hi> in the Wilder<g ref="char:EOLhyphen"/>neſs was a Figure; for the People having ſinned, and being bitten by <hi>Scorpions,</hi> and dying of the wounds, they were in great Fear and Diſtreſs; and the Lord commanded <hi>Moſes</hi> (for he did only the Lord's Will) to ſet the <hi>Serpent,</hi> made in <hi>Braſs,</hi> upon a Pole on high, that ſo all the whole Congregation of <hi>Iſrael</hi> might behold it. And ſo it was, that whoſoever was bitten, looking upon the bra<g ref="char:EOLhyphen"/>zen <hi>Serpent,</hi> was immediately healed, and dyed not: ſo was Chriſt lifted up, on a <hi>Tree,</hi> or <hi>Croſs;</hi> and as <hi>Moſes</hi> lift up the Serpent in the Wilderneſs, Chriſt being thus lifted up, will draw all men after him; and whoſoever looks upon him, and believes in him, they are cleanſed and healed, and delivered from the Old Serpent, the Devil, and all his Baits and Wildes can in no wiſe pluck them out of his hands, that by his <hi>Light, Spirit,</hi> and <hi>Grace,</hi> do believe in him, they have Life Eternal through Faith in his Name, and knows him in Spiritual Things, now to rule over them, and acknowledge him <hi>Law-giver</hi> unto them, that brings them out of all Strife, Wars, Diviſions, and Sidings, or making Parties in this World, loving and ſeeking the good, the preſent and eternal Wel<g ref="char:EOLhyphen"/>fare of all men, from the King on the Throne, to the pooreſt Per<g ref="char:EOLhyphen"/>ſon in his Kingdoms, bearing Teſtimony in Practice, and in Do<g ref="char:EOLhyphen"/>ctrine, againſt all that ſhall do otherwiſe, knowing the Earth is the Lord's, and that by him Kings do reign.</p>
+            <p>Therefore let all approve themſelves to the Lord, and that of God in the Conſciences of all men, that we paſs the time as So<g ref="char:EOLhyphen"/>journers here in fear, knowing that here we have no continuing Ci<g ref="char:EOLhyphen"/>ty, but that we ſeek one eternal in the Heavens, whoſe Builder and Maker is God: And that having a <hi>High Prieſt</hi> that is holy and harmleſs to make interceſſion for us: a <hi>Prophet,</hi> that continually (by his Spirit) teacheth us: and a <hi>Spiritual King</hi> to reign in our Hearts and Conſciences. Let all take him for their Example, who did not come to do his own Will, but the Will of his Father that ſent him, unto whom the Father hath given all Power in Heaven, and in Earth, and hath ſaid to all in the voice, from the excellent Glory, from the holy Mountain; <hi>This is my beloved Son in whom I am well pleaſed, hear ye him.</hi>
+            </p>
+            <closer>
+               <salute>Little Children,</salute> keep your ſelves from IDOLS. Amen.<lb/>
+               <dateline>
+                  <date>Written the 6th. of the 7th. Month, 1683.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:172223:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 95 -->
+            <pb facs="tcp:172223:6"/>
+            <!-- PDF PAGE 96 -->
+         </div>
+      </body>
+   </text>
+</TEI>
